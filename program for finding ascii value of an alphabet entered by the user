@@ -1,8 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
+    
 int main(){
   char c;
   printf("enter the alphabet for finding the ascii value:");
-  scanf("c,&c);
-  printf("The ascii value of %c is %d:",c,&c);
+  scanf("%c",&c);
+  printf("The ascii value of %c is %d:",c,c);
   return 0;
 }
