@@ -5,7 +5,7 @@ int main()
 {
     string color, pluralnoun, celebrity;
     cout << "Enter a color:";
-    getline(cin, color); //-->CAN PRINT STRING OF SPACES TOO(NOT FOR INT,FLOAT ETC).
+    getline(cin, color); 
     cout << "Enter a plural noun:";
     getline(cin, pluralnoun);
     cout << "Enter a celebrity:";
