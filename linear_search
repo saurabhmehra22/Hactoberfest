@@ -1,5 +1,5 @@
 // PROGRAM FOR LINEAR SEARCH
-#include<iostream.h>
+#include<bits/stdc++.h>
 int Linear_Search(int arr[],int n,int x){
     for (int i = 0; i < n; i++)
     {
